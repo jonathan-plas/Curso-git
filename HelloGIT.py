@@ -1,2 +1,3 @@
 print("Hola Git")
-print("Ediatbdo el primer archivo")
+print("Editando el primer archivo")
+print("Intentando aprender GIT")
